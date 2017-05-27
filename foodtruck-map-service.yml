@@ -1,4 +1,4 @@
 geo:
     fallback:
-      distance: 1000
-      time: Fallback
+      distance: 0
+      time: Not Available 
